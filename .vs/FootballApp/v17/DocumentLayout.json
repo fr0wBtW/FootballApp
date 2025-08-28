@@ -3,36 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\services\\footballservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\services\\footballservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\views\\football\\upcomingmatches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\views\\football\\upcomingmatches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\controllers\\footballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\controllers\\footballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\wwwroot\\css\\favorites.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\wwwroot\\css\\favorites.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\models\\favoritematches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\models\\favoritematches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\models\\matchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\models\\matchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\models\\matchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\models\\matchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\services\\footballservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\services\\footballservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\controllers\\footballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\controllers\\footballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\models\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\models\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Migrations\\20250828133720_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FootballApp\\Migrations\\20250828133720_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\wwwroot\\js\\favorites.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\wwwroot\\js\\favorites.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|c:\\users\\georgi\\source\\repos\\footballapp\\footballapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48A8545A-A984-4136-B073-88415DD7722C}|FootballApp\\FootballApp.csproj|solutionrelative:footballapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +86,254 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FootballController.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Controllers\\FootballController.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Controllers\\FootballController.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Controllers\\FootballController.cs",
+              "RelativeToolTip": "FootballApp\\Controllers\\FootballController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:46:06.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FootballService.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Services\\FootballService.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Services\\FootballService.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Services\\FootballService.cs",
+              "RelativeToolTip": "FootballApp\\Services\\FootballService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:40:55.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavoriteMatches.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\FavoriteMatches.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Models\\FavoriteMatches.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\FavoriteMatches.cs",
+              "RelativeToolTip": "FootballApp\\Models\\FavoriteMatches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:09:54.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\MatchResponse.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Models\\MatchResponse.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\MatchResponse.cs",
+              "RelativeToolTip": "FootballApp\\Models\\MatchResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:39:50.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Models\\Match.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Match.cs",
+              "RelativeToolTip": "FootballApp\\Models\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:38:38.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FootballApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FootballApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:45:37.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UpcomingMatches.cshtml",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Views\\Football\\UpcomingMatches.cshtml",
+              "RelativeDocumentMoniker": "FootballApp\\Views\\Football\\UpcomingMatches.cshtml",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Views\\Football\\UpcomingMatches.cshtml",
+              "RelativeToolTip": "FootballApp\\Views\\Football\\UpcomingMatches.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T14:49:08.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "favorites.css",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\wwwroot\\css\\favorites.css",
+              "RelativeDocumentMoniker": "FootballApp\\wwwroot\\css\\favorites.css",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\wwwroot\\css\\favorites.css",
+              "RelativeToolTip": "FootballApp\\wwwroot\\css\\favorites.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-28T11:44:43.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Competition.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Competition.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Models\\Competition.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Competition.cs",
+              "RelativeToolTip": "FootballApp\\Models\\Competition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:14:25.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "FootballApp\\Controllers\\FavoritesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:10:29.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FootballApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:31:28.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FootballApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FootballApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:44:42.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250828133720_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Migrations\\20250828133720_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Migrations\\20250828133720_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Migrations\\20250828133720_InitialCreate.cs",
+              "RelativeToolTip": "FootballApp\\Migrations\\20250828133720_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:37:20.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "FootballApp\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Team.cs",
+              "RelativeToolTip": "FootballApp\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:39:29.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\appsettings.json",
               "RelativeDocumentMoniker": "FootballApp\\appsettings.json",
               "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\appsettings.json",
               "RelativeToolTip": "FootballApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-26T15:15:21.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpcomingMatches.cshtml",
-              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Views\\Football\\UpcomingMatches.cshtml",
-              "RelativeDocumentMoniker": "FootballApp\\Views\\Football\\UpcomingMatches.cshtml",
-              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Views\\Football\\UpcomingMatches.cshtml",
-              "RelativeToolTip": "FootballApp\\Views\\Football\\UpcomingMatches.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T14:49:08.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FootballController.cs",
-              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Controllers\\FootballController.cs",
-              "RelativeDocumentMoniker": "FootballApp\\Controllers\\FootballController.cs",
-              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Controllers\\FootballController.cs",
-              "RelativeToolTip": "FootballApp\\Controllers\\FootballController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:46:06.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Program.cs",
               "RelativeDocumentMoniker": "FootballApp\\Program.cs",
               "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Program.cs",
               "RelativeToolTip": "FootballApp\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:45:18.538Z"
+              "WhenOpened": "2025-08-26T14:45:18.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FootballService.cs",
-              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Services\\FootballService.cs",
-              "RelativeDocumentMoniker": "FootballApp\\Services\\FootballService.cs",
-              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Services\\FootballService.cs",
-              "RelativeToolTip": "FootballApp\\Services\\FootballService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:40:55.356Z"
+              "DocumentIndex": 16,
+              "Title": "favorites.js",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\wwwroot\\js\\favorites.js",
+              "RelativeDocumentMoniker": "FootballApp\\wwwroot\\js\\favorites.js",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\wwwroot\\js\\favorites.js",
+              "RelativeToolTip": "FootballApp\\wwwroot\\js\\favorites.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-28T11:46:58.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MatchResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\MatchResponse.cs",
-              "RelativeDocumentMoniker": "FootballApp\\Models\\MatchResponse.cs",
-              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\MatchResponse.cs",
-              "RelativeToolTip": "FootballApp\\Models\\MatchResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:39:50.545Z"
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FootballApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FootballApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-28T13:01:22.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "FootballApp\\Models\\Team.cs",
-              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Team.cs",
-              "RelativeToolTip": "FootballApp\\Models\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:39:29.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Match.cs",
-              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Match.cs",
-              "RelativeDocumentMoniker": "FootballApp\\Models\\Match.cs",
-              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\Models\\Match.cs",
-              "RelativeToolTip": "FootballApp\\Models\\Match.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:38:38.772Z"
+              "DocumentIndex": 18,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FootballApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Georgi\\source\\repos\\FootballApp\\FootballApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FootballApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-28T11:56:50.244Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,8 @@ namespace FootballApp.Controllers
 
         public async Task<IActionResult> UpcomingMatches()
         {
-            var matches = await _footballService.GetPremierLeagueMatchesAsync();
+            var leagues = new List<string> { "PL", "PD", "SA", "CL", "DED", "BL1" };
+            var matches = await _footballService.GetMatchesFromLeagueAsync(leagues);
             return View(matches);
         }
     }
